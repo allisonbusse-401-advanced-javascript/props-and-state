@@ -1,1 +1,2 @@
 # props-and-state
+This lab includes creating a RandomColor component that changes the color of the background every second. If a color is selected two times in a row, an image is shown instead of a color. 
